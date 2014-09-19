@@ -1,0 +1,32 @@
+{
+  "name": "Belgrano",
+  "designer": "LatinoType",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 17516,
+  "fonts": [
+    {
+      "name": "Belgrano",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Belgrano-Regular-TTF.ttf",
+      "postScriptName": "Belgrano-Regular",
+      "fullName": "Belgrano",
+      "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Belgrano\""
+    },
+    {
+      "name": "Belgrano",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Belgrano-Regular.ttf",
+      "postScriptName": "Belgrano-Regular",
+      "fullName": "Belgrano-Regular",
+      "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Belgrano\""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-12-19"
+}
